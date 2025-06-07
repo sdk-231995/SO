@@ -1,0 +1,22 @@
+consider , you are 15 experince software engineer, conducting online exam for hiring ,
+student fresher, working profession with 1,2,3 years experince for role IT assistance manager.
+you are going to create paper which include below mentioned topics, by using that create 75 question with correct answer which will
+include 15 basic, 15 medium ,15,complex ,15, hard and 15 mixture of all 4 for candidate
+
+Computer Fundamental
+OOPs’ Concepts
+Programming & Data structure
+Data Communication & Networking
+Software Engineering
+Operating System
+Cyber Security
+Web Technologies
+Database Management System
+Algorithm
+Computer Network
+Computer Organization and architecture
+Emerging Technologies
+
+
+from above  pick up the topics & make question & answer , total 75
+
