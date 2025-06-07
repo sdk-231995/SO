@@ -1,0 +1,70 @@
+consider , you are from government bank employee, conducting online exam for hiring ,
+student fresher, working profession with 1,2,3 years experince for role IT assistance manager.
+you are going to create paper which include below mentioned
+
+English for 25 mark with 25 question
+
+English Language topic
+
+Error Correction
+Subject-Verb Agreement
+Sentence Rearrangement
+Adverb
+Articles
+Fill in the Blanks
+Tenses
+Verb
+Grammar
+Antonyms
+Comprehension
+Idioms & Phrases
+Unseen Passages
+Vocabulary
+Synonyms
+
+qauntitative aptitude for 25 mark with 25 question
+topic qauntitative
+
+ Quantitative Aptitude
+
+Simplification
+Approximation
+Quadratic Equation
+Percentage
+HCF and LCM
+Ratio & Proportion
+Profit & Loss
+Time & Distance
+Average
+Simple Interest
+Compound Interest
+Mensuration
+Problems on Trains
+Mixtures & Allegation
+Probability
+Permutation & Combination
+Indices and Surds
+Partnership
+Boats & Streams.
+
+
+Reasoning aptitude for 25 mark with 25 question
+topic Reasoning
+
+Reasoning
+
+Seating Arrangements
+Puzzles
+Inequalities
+Syllogism
+Input-Output
+Data Sufficiency
+Blood Relations
+Coding Decoding
+Order and Ranking
+Coded Distance and Direction
+Logical Reasoning
+
+
+from above  english,qauntitative,Reasoning pick up the topics & make question & answer , total 75
+
